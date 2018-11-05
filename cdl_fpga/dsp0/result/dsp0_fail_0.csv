@@ -1,0 +1,2 @@
+gpio_input 0, 1 0,FAIL : fail,20180730-100840
+gpio_input 0 0 0,FAIL : fail,20180730-100840
